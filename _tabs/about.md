@@ -4,4 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="/assets/img/about.jpg" width="100%" min-width="500px">
+> I am [**reemkeem**](https://github.com/reemkeem) 👋
+
+![About Me](/assets/img/about.jpg){: width="350" height="450" .left}
